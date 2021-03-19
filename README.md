@@ -10,6 +10,14 @@ I am Python Developer and a junior Data Scientist
 
 I am currently working on a clone of Netflix which will show case the description of movies with the highest ranking
 
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/davy-nimbona/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Codingame Profile"><img width="22" src="https://github.com/davymariko/davymariko/blob/main/codingame-1.svg"> Coding game</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+</h5>
+
 <hr>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
