@@ -1,6 +1,10 @@
 <img align="right" alt="GIF" src="https://sdk.bitmoji.com/render/panel/6ce76d26-9c7a-4fd2-8675-f5d4225363d6-1bf2fb5f-a64d-4b31-9ed1-b302ce16f516-v1.png?transparent=1&palette=1" width="240px"/>
 
-## Hey, I am Davy Nimbona
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=davymariko.davymariko">
+<br>
+<h3 align="center">
+  Hello there, I'm Davy Nimbona 👋
+</h3>
 
 I am Python Developer and a junior Data Scientist
 
