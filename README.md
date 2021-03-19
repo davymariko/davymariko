@@ -15,8 +15,10 @@
   <code><a href="https://www.instagram.com/marikomutoyi/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 
-
+<br>
+<h4>
 I am Python Developer and a junior Data Scientist
+</h4>
 
 I am currently working on a clone of Netflix which will show case the description of movies with the highest ranking
 
