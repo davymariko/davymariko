@@ -6,9 +6,6 @@
   Hello there, I'm Davy Nimbona 👋
 </h3>
 
-I am Python Developer and a junior Data Scientist
-
-I am currently working on a clone of Netflix which will show case the description of movies with the highest ranking
 
 <h5 align="center">
   <code>
@@ -17,6 +14,12 @@ I am currently working on a clone of Netflix which will show case the descriptio
   <code><a href="https://www.codingame.com/profile/6a227f255b0b95cf45dd469d825975339487193" title="Codingame Profile"><img width="22" src="https://github.com/davymariko/davymariko/blob/main/codingame-1.svg"> Coding game</a></code>
   <code><a href="https://www.instagram.com/marikomutoyi/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
+
+
+I am Python Developer and a junior Data Scientist
+
+I am currently working on a clone of Netflix which will show case the description of movies with the highest ranking
+
 
 <hr>
 
