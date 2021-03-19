@@ -4,6 +4,8 @@ I am Python Developer and a junior Data Scientist
 
 I am currently working on a clone of Netflix which will show case the description of movies with the highest ranking
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 <hr>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
