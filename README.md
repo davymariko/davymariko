@@ -9,10 +9,10 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/davy-nimbona/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/davynimbona" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+    <a href="https://www.linkedin.com/in/davy-nimbona/" title="LinkedIn Profile"><img width="22" src="https://github.com/davymariko/davymariko/blob/main/assets/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/davynimbona" title="HackerRank Profile"><img width="22" src="https://github.com/davymariko/davymariko/blob/main/assets/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.codingame.com/profile/6a227f255b0b95cf45dd469d825975339487193" title="Codingame Profile"><img width="22" src="https://github.com/davymariko/davymariko/blob/main/assets/codingame-1.svg"> Coding game</a></code>
-  <code><a href="https://www.instagram.com/marikomutoyi/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/marikomutoyi/" title="Instagram Profile"><img width="22" src="https://github.com/davymariko/davymariko/blob/main/assets/instagram.svg"> Instagram</a></code>
 </h5>
 
 <br>
@@ -39,12 +39,12 @@ I am currently working on a clone of Netflix which will show case the descriptio
   <code><img title="React" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/react-original.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/vscode.png"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
-  <code><img title="PHP" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
-  <code><img title="Flask" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/flask.png"></code>
+  <code><img title="Java" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/json.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/github.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/mysql.svg"></code>
+  <code><img title="PHP" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/php.svg"></code>
+  <code><img title="Flask" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/flask.png"></code>
 </p>
 
 <hr>
