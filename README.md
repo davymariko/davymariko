@@ -11,7 +11,7 @@
   <code>
     <a href="https://www.linkedin.com/in/davy-nimbona/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/davynimbona" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://www.codingame.com/profile/6a227f255b0b95cf45dd469d825975339487193" title="Codingame Profile"><img width="22" src="https://github.com/davymariko/davymariko/blob/main/codingame-1.svg"> Coding game</a></code>
+  <code><a href="https://www.codingame.com/profile/6a227f255b0b95cf45dd469d825975339487193" title="Codingame Profile"><img width="22" src="https://github.com/davymariko/davymariko/blob/main/assets/codingame-1.svg"> Coding game</a></code>
   <code><a href="https://www.instagram.com/marikomutoyi/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 
