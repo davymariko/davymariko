@@ -39,12 +39,12 @@ I am currently working on a clone of Netflix which will show case the descriptio
   <code><img title="React" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/react-original.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/vscode.png"></code>
-  <code><img title="Java" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/json.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/github.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/mysql.svg"></code>
-  <code><img title="PHP" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/php.svg"></code>
-  <code><img title="Flask" height="25" src="https://github.com/davymariko/davymariko/blob/main/assets/flask.png"></code>
+  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
+  <code><img title="PHP" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
+  <code><img title="Flask" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/flask.png"></code>
 </p>
 
 <hr>
