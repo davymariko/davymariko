@@ -20,7 +20,7 @@
 I am Python Developer and a junior Data Scientist
 </h4>
 
-I am currently working on a clone of Netflix which will show case the description of movies with the highest ranking
+I am currently working as an associate python developer for Cognizant. Working on predicting cashflow for the client (Novartis Pharma Digital Finance Team).
 
 
 <hr>
